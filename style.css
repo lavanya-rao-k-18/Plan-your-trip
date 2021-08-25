@@ -24,7 +24,7 @@
   height: 2px;
   background: #660885;
   position: absolute;
-  left:42%;
+  left:40%;
   top:50%;
 }
 .title:after{ 
@@ -35,7 +35,7 @@
   height: 2px;
   background: #660885;
   position: absolute;
-  right: 42%;
+  right: 40%;
   top:50%;
 }
 .main {
@@ -126,7 +126,7 @@ h4 {
 }
 .container{
   position: relative;
-  width: 900px;
+  width: 1000px;
   height: 400px;
   margin-top: 0px;
   margin-left: 500px;
